@@ -1,0 +1,2 @@
+
+    if(array.size() < hash ) {
